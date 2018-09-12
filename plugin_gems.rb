@@ -56,3 +56,5 @@ if windows?
   download 'win32-eventlog', '0.6.7'
   download 'fluent-plugin-windows-eventlog', '0.2.2'
 end
+
+download "zookeeper", "1.4.11"
